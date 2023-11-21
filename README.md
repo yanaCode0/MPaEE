@@ -1,4 +1,7 @@
 # MPaEE
+## Trained Weights
+[weights](https://pan.baidu.com/s/1fPW1qT2-cNJ77lFfo5xWUw)  
+`code: 1111`
 
 ## Acknowledgement
 [ESN](https://github.com/iamwangyabin/ESN/tree/main)  
